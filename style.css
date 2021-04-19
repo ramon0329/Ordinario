@@ -1,0 +1,43 @@
+html{
+    font-family: 'PT Serif', serif;
+    background-image: url(https://tmssl.akamaized.net/images/foto/normal/bruno-fernandes-manchester-united-1603290539-49640.jpg?lm=1603290567);
+    background-size: 90%;
+}
+
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    background-color: rgba(0, 0, 0, 0.192);
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    text-align: end;
+    background-color: rgba(0, 0, 0, 0.192);
+    color: rgb(255, 255, 255);
+    padding-top: 0%;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+
+div{
+    border: black 2px solid;
+    color:black;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+button{
+    width: 250px;
+    margin-left: 43vw;
+    margin-bottom: 40px;
+    font-family: 'PT Serif', serif;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgb(236, 102, 102);
+    border-color: black;
+   
+}
